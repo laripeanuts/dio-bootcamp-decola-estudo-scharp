@@ -1,0 +1,14 @@
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+E:\Dropbox\Programacao\Estudo_daniel\Progamacao\DIO\DecolaTech\VisualStudio\Introducao_CSharp_NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
